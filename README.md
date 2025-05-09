@@ -52,7 +52,6 @@ I'm a tech returner with a mixed background in engineering, IT, and mineral expl
 
 
 📫 Contact Me
-- 📧 congokirsty@gmail.com
 - 🔗 [GitHub](https://github.com/swamphobbit22)
 - 🌍 [Portfolio](https://kirstyhallportfolio.netlify.app/)
 
