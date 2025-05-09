@@ -1,6 +1,6 @@
 ## About Me
 
-I'm a tech returner with a mixed background in engineering, IT, and mineral exploration. I enjoy building full-stack applications, websites and have an interest in emerging tech like AI and IoT. I also enjoy working with servers and experimenting in Linux environments. As well as recently graduating from the Northcoders course, I have completed training in cloud infrastructure (Azure) and CISCO DevNet.
+I'm a tech returner with a mixed background in engineering, IT, and mineral exploration. I enjoy building full-stack applications and websites and have an interest in emerging tech like AI and IoT. I also enjoy working with servers and experimenting in Linux environments. As well as recently graduating from the Northcoders course, I have completed courses in Azure and CISCO DevNet.
 
 ### Tech Stack
 
